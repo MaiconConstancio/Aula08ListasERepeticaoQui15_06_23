@@ -9,11 +9,12 @@ namespace Atividade07MaquinaDeCafe01
     class Program
     {
         static double novoVapCash = 0;
+
         static void Main(string[] args)
         {
             string nomeDaEmpresa = "MK VACAP";
             double vapCash = 0;
-            //double novoVapCash = 0;
+            //double novoVapCash = 0; ESSE N É MAIS USADO, PORQUE TEM UM FORA DO VOID, QUE PERMITE RECONHECER O VALOR DEPOIS QUE O SISTEMA REINICIOU
             string confirmaçãoDoDinheiro = "";
 
             //---------- ALTERAR VALOR E OPÇOES DO CARDAPIO AQUI ----------------
