@@ -1,0 +1,7 @@
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\bin\Debug\Aula08ListasERepeticaoQui.exe.config
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\bin\Debug\Aula08ListasERepeticaoQui.exe
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\bin\Debug\Aula08ListasERepeticaoQui.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\obj\Debug\Aula08ListasERepeticaoQui.csproj.AssemblyReference.cache
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\obj\Debug\Aula08ListasERepeticaoQui.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\obj\Debug\Aula08ListasERepeticaoQui.exe
+C:\Users\maicon.sconstancio\source\repos\Aula08ListasERepeticaoQui\Aula08ListasERepeticaoQui\obj\Debug\Aula08ListasERepeticaoQui.pdb
