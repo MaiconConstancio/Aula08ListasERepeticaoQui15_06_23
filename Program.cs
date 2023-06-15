@@ -11,15 +11,78 @@ namespace Aula08ListasERepeticaoQui
 
         static void Main(string[] args)
         {
+            List<string> nomes = new List<string>();
+            nomes.Add("Kennedy");
+            nomes.Add("nath");
+            nomes.Add("du");
+            nomes.Add("Mirela");
+            nomes.Add("Mirela");
+            nomes.Add("Mirela");
+            nomes.Add("Mirela");
+            nomes.Add(Console.ReadLine());
+
+            int quantidade = nomes.Count;
+            int contador = 0;
+            while (contador < quantidade)
+            {
+                Console.WriteLine($"Nome: {nomes[contador]}");
+                contador += 1;
+            }
+
+            Console.ReadKey();
+
+        }
+
+        void repetição()
+        {
+            //Lado de repetição (LOOP)
+            int contador = 0;
+
+            while (contador < 5)
+            {
+                Console.WriteLine("Olá!");
+
+                contador += 1;
+            }
+
+            Console.ReadKey();
+
+
+            //string nome;
+
+
+            //Console.WriteLine("Digite TESTE para aparecer a mensagem\n");
+            //nome = Console.ReadLine();
+
+            //while (nome == "TESTE" || nome == "teste")
+            //{
+            //    Console.WriteLine("\nHello Word!\n");
+            //    Main(null);
+            //    return;
+            //}
+
+
+
+            //int pontos = 0;
+
+            //while (pontos > 21)
+            //{
+            //    Console.WriteLine("Você quer mais cartas?");
+            //}
+
+        }
+
+        void List()
+        {
             //Listas -> Mesmo que o Array, porém com tamanho automático
             // Add (Item)      => adiciona um item novo na lista
             // Remove (item)   => remove um item pelo valor dele na lista
             // RemoveAt (item) => Remove um item pelo numero da posição dele
             // Count           => Mostra o número de itens que existem na lista
-            
+
             List<string> nomes = new List<string>(); // fora do void jogou static antes da list
 
-            
+
             nomes.Add("Jonatas"); //0
             nomes.Add("Natanael"); //1
             nomes.Add("Bruno"); //2
@@ -49,10 +112,7 @@ namespace Aula08ListasERepeticaoQui
             Console.WriteLine($"Existem {nomes.Count} usuários cadastrados!");
 
             Console.ReadKey();
-
         }
-
-
 
         void Arrays()
         { 
